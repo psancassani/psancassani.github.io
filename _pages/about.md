@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hi!"
-excerpt: "I am Pietro Sancassani"
+title: ""
+excerpt: "excerpt"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I am Pietro Sancassani, a PhD student at ifo Institut and LMU in Munich, Germany.
 
-My research interests are Education, Labor, and Public Economics.
+My research interests are Education, Labor, and Political Economy.
 
 Paper 1
 ======
