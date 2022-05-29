@@ -9,23 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* **ifo Institute for Economic Research, Munich, Germany**
+	Center for the Economics of Education
+	Junior Economist and Ph.D. Candidate (LMU Munich)
+	Supervisor: Prof. Ludger Woessmann
+	
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Bocconi University, Milan, Italy, 2018**
+	Master of Science in Economics and Social Science
+* **University of Mannheim, Mannheim, Germany, 2016**
+	Graduate exchange student, Department of Economics
+* **University of Pavia, Pavia, Italy, 2015**
+	Bachelor of Science in Economics
+* **Radboud University of Nijmegen, Nijmegen, The Netherlands, 2014**
+	Undergraduate exchange student, School of Management
 
+Scholarship
+======
+* Outcomes and Causal Inference in International Comparative Assessments (OCCAM), 2018-2021
+	European Training Network (ETN) of the European Commission’s Horizon 2020 framework
+	
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* European Commision, DG Competition, Bruxelles, Belgium, 2017
+	Internship at Principal Adviser Unit for the economic evaluation of competition policy 
   
 Skills
 ======
@@ -54,6 +64,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
