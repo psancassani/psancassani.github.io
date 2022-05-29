@@ -19,7 +19,7 @@ Current Position
 Education
 ======
 * **Bocconi University, Milan, Italy, 2018**\
-	Master of Science in Economics and Social Science
+	Master of Science in Economics and Social Sciences
 * **University of Mannheim, Mannheim, Germany, 2016**\
 	Graduate exchange student, Department of Economics
 * **University of Pavia, Pavia, Italy, 2015**\
@@ -41,7 +41,7 @@ Teaching
 ======
 * Teaching Assistant: New Topics in Applied Econometrics: Machine Learning, Big Data, and Other Recent Developements (2021, Undergraduate Level), LMU Munich
 * Teaching Assistant: Econometric Evaluations of the Consequences of the COVID-19 Pandemic (2021, Graduate Level), LMU Munich
-* Supervision of Master and Bachelor theses (2019-2022), LMU Munich
+* Supervision of Master and Bachelor theses (2019-), LMU Munich
   
 IT Skills
 ======
@@ -50,4 +50,3 @@ Stata, Python, R, Microsoft Office
 Languages
 ======
 **Italian** (native), **English** (fluent), **German** (advanced)
-
