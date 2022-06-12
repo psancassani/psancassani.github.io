@@ -11,21 +11,25 @@ redirect_from:
 
 Current Position
 ======
-* **ifo Institute for Economic Research, Munich, Germany**\
-	Center for the Economics of Education\
-	Junior Economist and Ph.D. Candidate (LMU Munich)\
+* ifo Institute for Economic Research, Munich, Germany\
+	* Center for the Economics of Education,
+	Junior Economist and Ph.D. Candidate (LMU Munich);
 	Supervisor: Prof. Ludger Woessmann
 	
 Education
 ======
-* **Bocconi University, Milan, Italy, 2018**\
-	Master of Science in Economics and Social Sciences
-* **University of Mannheim, Mannheim, Germany, 2016**\
-	Graduate exchange student, Department of Economics
-* **University of Pavia, Pavia, Italy, 2015**\
-	Bachelor of Science in Economics
-* **Radboud University of Nijmegen, Nijmegen, The Netherlands, 2014**\
-	Undergraduate exchange student, School of Management
+* Bocconi University, Milan, Italy, 2018\
+	* Master of Science in Economics and Social Sciences
+* University of Mannheim, Mannheim, Germany, 2016\
+	* Graduate exchange student, Department of Economics
+* University of Pavia, Pavia, Italy, 2015\
+	* Bachelor of Science in Economics
+* Radboud University of Nijmegen, Nijmegen, The Netherlands, 2014\
+	* Undergraduate exchange student, School of Management
+
+Research Visits
+======
+* Visiting Ph.D. Student at HIVA (Research Institute for Work and Society), KU Leuven, Belgium, 2019
 
 Scholarship
 ======
@@ -49,4 +53,4 @@ Stata, Python, R, Microsoft Office
 
 Languages
 ======
-**Italian** (native), **English** (fluent), **German** (advanced)
+Italian (native), English (fluent), German (advanced)
