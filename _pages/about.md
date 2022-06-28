@@ -16,7 +16,7 @@ In my research, I combine **econometric techniques** with the analysis of **text
 
 Research
 ------
-* Topic Salience and Political Polarization: Evidence from the German “PISA-Shock” - *Draft available upon request*
+* Topic Salience and Political Polarization: Evidence from the German “PISA-Shock” - [Draft](https://raw.githubusercontent.com/psancassani/psancassani.github.io/master/files/draft_topic_salience.pdf)
 	* Abstract: Does topic salience affect political polarization? On the one hand, parties might converge towards the median voter platform when a topic becomes more relevant for voters. On the other hand, parties might drift apart from each other to realign with their voters, thus following a cleavage pattern. In this paper, I investigate the impact of topic salience on the polarization of political debates about education in Germany. I exploit the exogenous increase in the salience of education induced by the "PISA-shock", the release of the first results of the PISA study in December 2001. Using parliamentary debates of all German state parliaments, I provide evidence of an increase in polarization due to the "PISA-shock", in line with parties following a cleavage pattern to gain electoral consensus. The effect is larger for parties for which education is a more salient topic. The large heterogeneity in the performance of German states revealed in June 2002 is not accompanied by a heterogeneous effect on polarization. This result suggests that topic salience, rather than the actual information shock, drives the effect on polarization.
 
 
