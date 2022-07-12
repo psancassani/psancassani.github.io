@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome!"
-excerpt: "excerpt"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,6 +32,6 @@ Research
 Work in Progress
 ------
 
-* Student Achievement and Culture Measured with Social Media (with [Lavinia Kinne](https://sites.google.com/view/laviniakinne/startseite))
+* The Puzzle of Students’ Performance Gaps across Countries – Can Social Media Help? (with [Lavinia Kinne](https://sites.google.com/view/laviniakinne/startseite))
 
 * Preparing Teachers: An International Perspective
