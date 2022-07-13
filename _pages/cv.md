@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
+You can find a pdf version of my CV [here](https://github.com/psancassani/psancassani.github.io/raw/master/files/cv_pietrosancassani.pdf)
 
 Current Position
 ======
@@ -54,3 +55,6 @@ Stata, Python, R, Microsoft Office
 Languages
 ======
 Italian (native), English (fluent), German (advanced)
+
+
+Last updated: July 13, 2022
