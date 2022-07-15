@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %} 
-You can find a pdf version of my CV [here](https://github.com/psancassani/psancassani.github.io/raw/master/files/cv_pietrosancassani.pdf)
+You can find a pdf version of my CV [here](https://psancassani.github.io/files/cv_pietrosancassani.pdf)
 
 Current Position
 ======
@@ -41,7 +41,12 @@ Work experience
 ======
 * European Commision, DG Competition, Bruxelles, Belgium, 2017\
 	Internship at Principal Adviser Unit for the economic evaluation of competition policy 
-  
+
+Conferences and Workshops (including scheduled)
+======
+* 2022: FU Workshop on Empirical Public Economics (Berlin), ESPE (Cosenza), IWAEE (Catanzaro), IIPF (August, Linz), CESifo/ifo Junior Workshop on Big Data 2022 (October, Munich)
+* 2021: NEPS Conference (virtual), EffEE PhD Workshop (Berlin),  IAB-FAU Workshop in Machine Learning in Labor, Education, and Health Economics (virtual) 
+
 Teaching
 ======
 * Teaching Assistant: New Topics in Applied Econometrics: Machine Learning, Big Data, and Other Recent Developements (2021, Undergraduate Level), LMU Munich
