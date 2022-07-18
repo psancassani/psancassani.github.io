@@ -44,7 +44,7 @@ Work experience
 
 Conferences and Workshops (including scheduled)
 ======
-* 2022: FU Workshop on Empirical Public Economics (Berlin), ESPE (Cosenza), IWAEE (Catanzaro), IIPF (August, Linz), CESifo/ifo Junior Workshop on Big Data 2022 (October, Munich)
+* 2022: FU Workshop on Empirical Public Economics (Berlin), ESPE (Cosenza), IWAEE (Catanzaro), IIPF (August, Linz), Monash-Warwick-Zurich Text-as-Data Workshop (September, virtual), CESifo/ifo Junior Workshop on Big Data 2022 (October, Munich)
 * 2021: NEPS Conference (virtual), EffEE PhD Workshop (Berlin),  IAB-FAU Workshop in Machine Learning in Labor, Education, and Health Economics (virtual) 
 
 Teaching
