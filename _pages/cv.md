@@ -61,5 +61,3 @@ Languages
 ======
 Italian (native), English (fluent), German (advanced)
 
-
-Last updated: July 13, 2022
