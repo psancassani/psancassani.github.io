@@ -20,7 +20,7 @@ Research
 	* Abstract: Does topic salience affect political polarization? On the one hand, parties might converge towards the median voter platform when a topic becomes more relevant for voters. On the other hand, parties might drift apart from each other to realign with their voters, thus following a cleavage pattern. In this paper, I investigate the impact of topic salience on the polarization of political debates about education in Germany. I exploit the exogenous increase in the salience of education induced by the "PISA-shock", the release of the first results of the PISA study in December 2001. Using parliamentary debates of all German state parliaments, I provide evidence of an increase in polarization due to the "PISA-shock", in line with parties following a cleavage pattern to gain electoral consensus. The effect is larger for parties for which education is a more salient topic. The large heterogeneity in the performance of German states revealed in June 2002 is not accompanied by a heterogeneous effect on polarization. This result suggests that topic salience, rather than the actual information shock, drives the effect on polarization.
 
 
-* The Effect of Teacher Subject-Specific Qualification on Student Science Achievement - *Draft available upon request*
+* The Effect of Teacher Subject-Specific Qualifications on Student Science Achievement - *Draft available upon request*
 	* Revise & Resubmit, Labor Economics
 	* Abstract: I investigate the effect of teacher subject-specific qualifications on student science achievement using data from TIMSS 2015, a large-scale assessment of student skills. I exploit the availability of student test scores in four different science subjects—biology, chemistry, physics, and earth science—to test whether teachers holding a subject-specific qualification raise student test scores. Using a within-student within-teacher approach, which controls for student and teacher heterogeneity, I find that teacher subject-specific qualification in one subject increases student test score by 3.5% of a standard deviation in the same subject. The effect is stronger for female students, especially when they are taught by female teachers, for disadvantaged students, and in lower-performing countries. The mediation analysis reveals that up to 21% of the effect is explained by teachers feeling more confident to teach topics in subjects in which they hold subject-specific qualifications.
 
@@ -32,6 +32,6 @@ Research
 Work in Progress
 ------
 
-* The Puzzle of Students’ Performance Gaps across Countries – Can Social Media Help? (with [Lavinia Kinne](https://sites.google.com/view/laviniakinne/startseite))
+* The Puzzle of Students’ Performance Gaps across Countries – Can Social Media Help? (with [Eric A. Hanushek](http://hanushek.stanford.edu/), [Lavinia Kinne](https://sites.google.com/view/laviniakinne/startseite), and [Ludger Woessmann](https://sites.google.com/view/woessmann-e))
 
 * Preparing Teachers: An International Perspective
