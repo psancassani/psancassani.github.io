@@ -21,7 +21,7 @@ Research
 
 
 * The Effect of Teacher Subject-Specific Qualifications on Student Science Achievement - *Draft available upon request*
-	* Revise & Resubmit, Labor Economics
+	* Revise & Resubmit, *Labor Economics*
 	* Abstract: I investigate the effect of teacher subject-specific qualifications on student science achievement using data from TIMSS 2015, a large-scale assessment of student skills. I exploit the availability of student test scores in four different science subjects—biology, chemistry, physics, and earth science—to test whether teachers holding a subject-specific qualification raise student test scores. Using a within-student within-teacher approach, which controls for student and teacher heterogeneity, I find that teacher subject-specific qualification in one subject increases student test score by 3.5% of a standard deviation in the same subject. The effect is stronger for female students, especially when they are taught by female teachers, for disadvantaged students, and in lower-performing countries. The mediation analysis reveals that up to 21% of the effect is explained by teachers feeling more confident to teach topics in subjects in which they hold subject-specific qualifications.
 
 
@@ -32,6 +32,6 @@ Research
 Work in Progress
 ------
 
-* The Puzzle of Students’ Performance Gaps across Countries – Can Social Media Help? (with [Eric A. Hanushek](http://hanushek.stanford.edu/), [Lavinia Kinne](https://sites.google.com/view/laviniakinne/startseite), and [Ludger Woessmann](https://sites.google.com/view/woessmann-e))
+* Can Patience Account for Regional Differences in Student Achievement? A Within-Country Analysis of Facebook Interests (with [Eric A. Hanushek](http://hanushek.stanford.edu/), [Lavinia Kinne](https://sites.google.com/view/laviniakinne/startseite), and [Ludger Woessmann](https://sites.google.com/view/woessmann-e))
 
 * Preparing Teachers: An International Perspective
