@@ -49,13 +49,13 @@ Conferences and Workshops (including scheduled)
 
 Teaching
 ======
-* Teaching Assistant: New Topics in Applied Econometrics: Machine Learning, Big Data, and Other Recent Developements (2021, Undergraduate Level), LMU Munich
+* Teaching Assistant: New Topics in Applied Econometrics: Machine Learning, Big Data, and Other Recent Developments (2021, Undergraduate Level), LMU Munich
 * Teaching Assistant: Econometric Evaluations of the Consequences of the COVID-19 Pandemic (2021, Graduate Level), LMU Munich
 * Supervision of Master and Bachelor theses (2019-), LMU Munich
   
 IT Skills
 ======
-Stata, Python, R, Microsoft Office
+Stata, Python, R, git, Microsoft Office
 
 Languages
 ======
