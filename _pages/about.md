@@ -23,6 +23,9 @@ Publications
 
 Research
 ------
+* Can Patience Account for Subnational Differences in Student Achievement? Regional Analysis with Facebook Interests (with [Eric A. Hanushek](http://hanushek.stanford.edu/), [Lavinia Kinne](https://sites.google.com/view/laviniakinne/startseite), and [Ludger Woessmann](https://sites.google.com/view/woessmann-e)) - [NBER Working Paper](https://www.nber.org/papers/w31690), [twitter thread](https://x.com/Woessmann/status/1703638495623778567?s=20)
+	* Abstract: Decisions to invest in human capital depend on people’s time preferences. We show that differences in patience are closely related to substantial subnational differences in educational achievement, leading to new perspectives on longstanding within-country disparities. We use social-media data – Facebook interests – to construct novel regional measures of patience within Italy and the United States. Patience is strongly positively associated with student achievement in both countries, accounting for two-thirds of the achievement variation across Italian regions and one-third across U.S. states. Results also hold for six other countries with more limited regional achievement data.
+
 * Topic Salience and Political Polarization: Evidence from the German “PISA-Shock” - [draft](https://psancassani.github.io/files/draft_topic_salience.pdf)
 	* Abstract: How does the salience of a topic affect the polarization in parliamentary debates about the same topic? Using parliamentary debates from the 16 German state parliaments, I exploit the exogenous increase in the salience of education induced by the unexpectedly low performance of German students in the PISA 2000 test—the German “PISA-shock”. In a difference-in-differences design, I find that the “PISA-shock” caused a 8.8% of a standard deviation increase in polarization of education debates compared to debates on other topics. The effect is long-lasting and fades after about 6 years. It is also homogenous with respect to the average performance of each German state, despite the large differences highlighted by PISA. I also find that the increase in polarization is accompanied by an increase in the number of proposed bills about education. Finally, I provide suggestive evidence on the education issues that led to an increase in polarization.
 
@@ -30,9 +33,3 @@ Research
 	* Abstract: Using TIMSS 2015, an international large-scale assessment of student skills, I investigate the effect of teacher characteristics on student science achievement. My identification strategy exploits the feature that in many education systems different science subjects–physics, biology, chemistry, and earth science–are taught by different teachers. The availability of student test scores as well as teachers’ questionnaires for each of these subjects allows me to implement a within-student approach which controls for unobserved student heterogeneity. I find a positive and weakly significant effect of teacher subject-specific qualifications on student science test scores, equivalent to 1.7% of a standard deviation. Whether teachers hold a Master’s degree, a major in education, or their experience have no significant effect on student science test scores.
 
 
-Work in Progress
-------
-
-* Can Patience Account for Within-country Differences in Student Achievement? A Regional Analysis of Facebook Interests (with [Eric A. Hanushek](http://hanushek.stanford.edu/), [Lavinia Kinne](https://sites.google.com/view/laviniakinne/startseite), and [Ludger Woessmann](https://sites.google.com/view/woessmann-e))
-
-* Preparing Teachers: An International Perspective
