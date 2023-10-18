@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome to my academic website!"
 excerpt: "website ps"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at ifo Institut at the Department of Economics of Education and LMU in Munich, Germany.
+ I'm an applied economist passionate about the world of data science, holding a PhD in Economics from LMU University in Munich.
 
 My research interests are **Education**, **Labor**, and **Political Economics**.\
 I am currently working on understanding how politicians' debates respond to an increase in the **salience of a topic**, on how **cultural factors** affect student achievement, and on the impact of **teacher characteristics** on student achievement.\
