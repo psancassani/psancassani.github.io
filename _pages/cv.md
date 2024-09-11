@@ -5,11 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+
 
 {% include base_path %} 
 You can find a pdf version of my CV [here](https://psancassani.github.io/files/cv_pietrosancassani.pdf)
-
+"""
 Current Position
 ======
 * ifo Institute for Economic Research, Munich, Germany\
@@ -61,3 +61,4 @@ Languages
 ======
 Italian (native), English (fluent), German (advanced)
 
+---
