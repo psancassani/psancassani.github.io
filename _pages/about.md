@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist and economist in the Analytics and Platform Solutions (APS) team at Roland Berger. I obtained my PhD in Economics from LMU University in Munich and I was a Junior Economist at the ifo Institut.
+I am a data scientist and economist in the Analytics and Platform Solutions (APS) team at Roland Berger. I obtained my PhD in Economics from LMU University in Munich and I was a junior economist at the ifo Institut.
 
 My research interests are **Education**, **Labor**, and **Political Economics**.\
 During my time as a PhD candidate, and I have done research on the role of **patience for human capital accumulation**, on understanding how politicians' debates respond to an increase in the **salience of a topic**, and on the impact of **teacher characteristics** on student achievement.\
